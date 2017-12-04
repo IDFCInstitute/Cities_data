@@ -1,0 +1,92 @@
+Project:                     MAPPING INDIA'S URBANISATION (Urban Growth of Indian Cities)
+
+City Name:                   Hyderabad
+
+Temporal resoultion:         Built-up:1975, 1990, 2000 and 2014; Poulation: 1975, 1990, 2000 and 2015 and VIIRS: 2012, 2013, 2014 and 2015
+
+Spatial resolution:          Built-up: 38 meter; Population: 250 meter and VIIRS:463.05 meter.
+
+Dataset source:               1. GHSL - The Global Human Settlement (GHS) framework produces global spatial information about the human presence on the planet over time. The spatial data here shows the distribution of built-up area and population for four time periods: 1975, 1990, 2000 and 2014. The built-up and population layer data has been extracted from the Global Human Settlement Layer (GHSL), see link for more information - http://ghsl.jrc.ec.europa.eu/
+
+                              2. VIIRS - Nightfire data make use of six spectral bands to detect and characterizes subpixel infrared emitters. Provides locations and times of hot pixel detections along with estimates of temperatures and source sizes. For cloud-free gas flares a calculation is performed to estimate the flared gas volume in methane equivalents. Day/night band - low light imaging data: Detections of lighting from cities, towns, villages, combustion sources and lit fishing boats. See link for more information - https://ngdc.noaa.gov/eog/viirs/index.html  
+
+
+Infrastructe Operational 
+date:                        Highway:    Hyderabad_National_Highway_Road - NA 
+                             
+                             Metor_Line: Hyderabad_Metro_Line -  28/11/2017  
+
+Infrastructure Source:       (https://mapzen.com/data/metro-extracts/)
+
+File format:                 The zip file contains Built-up, Population, Infrastructure and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
+
+File nomenclature:  
+                      
+                    
+		      Geojson(.geojson)
+
+        Built-up             1975: 1975_Hyderabad_Builtup
+                             1990: 1975_1990_Hyderabad_Builtup
+                             2000: 1990_2000_Hyderabad_Builtup
+                             2014: 2000_2014_Hyderabad_Builtup                
+
+        Infrastructure       Highway:    Hyderabad_National_Highway_Road
+                             Metor_Line: Hyderabad_Metro_Line
+
+        Municipal Boundary   Hyderabad_Municipal_Boundary
+
+        Population           1975: 1975_Hyderabad_Population
+                             1990: 1975_1990_Hyderabad_Population
+                             2000: 1990_2000_Hyderabad_Population
+                             2015: 2000_2015_Hyderabad_Population                             
+
+               Keyhole Markup Language (.KML)
+
+	Built-up             1975: 1975_Hyderabad_Builtup
+                             1990: 1975_1990_Hyderabad_Builtup
+                             2000: 1990_2000_Hyderabad_Builtup
+                             2014: 2000_2014_Hyderabad_Builtup                
+
+        Infrastructure       Highway:    Hyderabad_National_Highway_Road
+                             Metor_Line: Hyderabad_Metro_Line
+
+        Municipal Boundary   Hyderabad_Municipal_Boundary
+
+        Population           1975: 1975_Hyderabad_Population
+                             1990: 1975_1990_Hyderabad_Population
+                             2000: 1990_2000_Hyderabad_Population
+                             2015: 2000_2015_Hyderabad_Population
+
+                     Shapefile(.shp)
+
+        Built-up             1975: 1975_Hyderabad_Builtup
+                             1990: 1975_1990_Hyderabad_Builtup
+                             2000: 1990_2000_Hyderabad_Builtup
+                             2014: 2000_2014_Hyderabad_Builtup                
+
+        Infrastructure       Highway:    Hyderabad_National_Highway_Road
+                             Metor_Line: Hyderabad_Metro_Line
+
+        Municipal Boundary   Hyderabad_Municipal_Boundary
+
+        Population           1975: 1975_Hyderabad_Population
+                             1990: 1975_1990_Hyderabad_Population
+                             2000: 1990_2000_Hyderabad_Population
+                             2015: 2000_2015_Hyderabad_Population
+
+                    Geotiff(tif)
+
+         VIIRS               2012: 2012_Hyderabad_VIIRS 
+                             2013: 2013_Hyderabad_VIIRS  
+                             2014: 2014_Hyderabad_VIIRS 
+                             2015: 2015_Hyderabad_VIIRS
+
+
+*Data processed and created by UXO-India (http://uxo.mes.ac.in/) and IDFC Institute (http://www.idfcinstitute.org/)
+
+If you have any query, please feel free to contact Mr.Kshitij Batra (Email ID: kshitij.batra@idfcinstitute.org)
+
+
+
+
+

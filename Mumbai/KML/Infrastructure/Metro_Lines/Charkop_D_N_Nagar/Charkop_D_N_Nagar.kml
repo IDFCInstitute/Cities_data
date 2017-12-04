@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="charkop_d_n_nagar_2" id="charkop_d_n_nagar_2">
+	<SimpleField name="osm_id" type="float"></SimpleField>
+	<SimpleField name="access" type="string"></SimpleField>
+	<SimpleField name="aerialway" type="string"></SimpleField>
+	<SimpleField name="aeroway" type="string"></SimpleField>
+	<SimpleField name="amenity" type="string"></SimpleField>
+	<SimpleField name="area" type="string"></SimpleField>
+	<SimpleField name="barrier" type="string"></SimpleField>
+	<SimpleField name="bicycle" type="string"></SimpleField>
+	<SimpleField name="brand" type="string"></SimpleField>
+	<SimpleField name="bridge" type="string"></SimpleField>
+	<SimpleField name="boundary" type="string"></SimpleField>
+	<SimpleField name="building" type="string"></SimpleField>
+	<SimpleField name="covered" type="string"></SimpleField>
+	<SimpleField name="culvert" type="string"></SimpleField>
+	<SimpleField name="cutting" type="string"></SimpleField>
+	<SimpleField name="disused" type="string"></SimpleField>
+	<SimpleField name="embankment" type="string"></SimpleField>
+	<SimpleField name="foot" type="string"></SimpleField>
+	<SimpleField name="harbour" type="string"></SimpleField>
+	<SimpleField name="highway" type="string"></SimpleField>
+	<SimpleField name="historic" type="string"></SimpleField>
+	<SimpleField name="horse" type="string"></SimpleField>
+	<SimpleField name="junction" type="string"></SimpleField>
+	<SimpleField name="landuse" type="string"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="leisure" type="string"></SimpleField>
+	<SimpleField name="lock" type="string"></SimpleField>
+	<SimpleField name="man_made" type="string"></SimpleField>
+	<SimpleField name="military" type="string"></SimpleField>
+	<SimpleField name="motorcar" type="string"></SimpleField>
+	<SimpleField name="natural" type="string"></SimpleField>
+	<SimpleField name="oneway" type="string"></SimpleField>
+	<SimpleField name="operator" type="string"></SimpleField>
+	<SimpleField name="population" type="string"></SimpleField>
+	<SimpleField name="power" type="string"></SimpleField>
+	<SimpleField name="place" type="string"></SimpleField>
+	<SimpleField name="railway" type="string"></SimpleField>
+	<SimpleField name="ref" type="string"></SimpleField>
+	<SimpleField name="religion" type="string"></SimpleField>
+	<SimpleField name="route" type="string"></SimpleField>
+	<SimpleField name="service" type="string"></SimpleField>
+	<SimpleField name="shop" type="string"></SimpleField>
+	<SimpleField name="sport" type="string"></SimpleField>
+	<SimpleField name="surface" type="string"></SimpleField>
+	<SimpleField name="toll" type="string"></SimpleField>
+	<SimpleField name="tourism" type="string"></SimpleField>
+	<SimpleField name="tower_type" type="string"></SimpleField>
+	<SimpleField name="tracktype" type="string"></SimpleField>
+	<SimpleField name="tunnel" type="string"></SimpleField>
+	<SimpleField name="water" type="string"></SimpleField>
+	<SimpleField name="waterway" type="string"></SimpleField>
+	<SimpleField name="wetland" type="string"></SimpleField>
+	<SimpleField name="width" type="string"></SimpleField>
+	<SimpleField name="wood" type="string"></SimpleField>
+	<SimpleField name="z_order" type="float"></SimpleField>
+	<SimpleField name="way_area" type="float"></SimpleField>
+	<SimpleField name="tags" type="string"></SimpleField>
+</Schema>
+<Folder><name>charkop_d_n_nagar_2</name>
+  <Placemark>
+	<name>Mumbai Metro Line 2 (planned)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#charkop_d_n_nagar_2">
+		<SimpleData name="osm_id">183113903.000000000000000</SimpleData>
+		<SimpleData name="railway">proposed</SimpleData>
+		<SimpleData name="z_order">35.000000000000000</SimpleData>
+		<SimpleData name="way_area">0.000000000000000</SimpleData>
+		<SimpleData name="tags">&quot;proposed&quot;=&gt;&quot;subway&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>72.8309749,19.1281772 72.8310762,19.1285941 72.8313424,19.1297372 72.8314736,19.1301832 72.8314288,19.1304402 72.8312995,19.130806 72.831268,19.1313756 72.8313069,19.1316971 72.8319972,19.1350681 72.8320069,19.1353896 72.8310346,19.1457319 72.8314916,19.1513712 72.831618,19.1515181 72.8318222,19.1515273 72.8325222,19.1513436 72.8350031,19.1512451 72.8353044,19.1513019 72.8354757,19.1513805 72.8355861,19.1515393 72.835694,19.1518222 72.8357491,19.1521166 72.8354339,19.1542994 72.8351962,19.1558033 72.8351891,19.1568583 72.8352327,19.157711 72.8351993,19.1591169 72.8351779,19.1593527 72.834962,19.1599852 72.8348321,19.1605346 72.8347719,19.1624627 72.8350718,19.1669163 72.835333,19.1700022 72.8354035,19.1703144 72.8371802,19.1753242 72.8372094,19.1755813 72.836558,19.179484 72.8365157,19.1796727 72.8362425,19.1807332 72.835858,19.1825786 72.8357877,19.1833461 72.8357566,19.1850443 72.8357506,19.1853742 72.8357004,19.1881144 72.8355801,19.1890187 72.8344812,19.1930516 72.8337374,19.1952982 72.8336794,19.1958189 72.8338843,19.2015947 72.8339524,19.2022007 72.8343218,19.20434 72.8352455,19.2098028 72.8353913,19.2102068 72.836018,19.211756 72.8363177,19.2125298 72.8365413,19.2129246 72.8371658,19.2138208 72.8379122,19.2148893 72.8380165,19.2153062 72.8380483,19.2181943</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
