@@ -21,7 +21,7 @@ date:                        Highway:    Chennai_National_Highway and Chennai_to
 Infrastructure Source:       (https://mapzen.com/data/metro-extracts/)
 
 
-File format:                 The zip file contains Built-up, Population, Infrastructure and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
+File format:                 The folder contains Built-up, Population, Infrastructure and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
 
 File nomenclature:  
                                           

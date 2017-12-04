@@ -15,7 +15,7 @@ date:                        Metro_Lines: Blue_Line - 31/12/2005 ; Green_Line - 
 
 Infrastructure Source:       (https://mapzen.com/data/metro-extracts/)
 
-File format:                 The zip file contains Built-up, Population, Infrastructure and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
+File format:                 The folder contains Built-up, Population, Infrastructure and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
 
 File nomenclature:  
                                           
