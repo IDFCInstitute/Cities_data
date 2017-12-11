@@ -62,9 +62,9 @@ File nomenclature:
                              2000: 1990_2000_Ahmedabad_Builtup
                              2014: 2000_2014_Ahmedabad_Builtup
         
-        Infrastructure       Highway: Bengaluru_Highway and Bengaluru_Hosur_Highway
+        Infrastructure       Highway: Ahmedabad_Highway
                           
-        Municipal Boundary   Bangaluru_Municipal_Boundary 
+        Municipal Boundary   Ahmedabad_Municipal_Boundary 
 
         Population           1975: 1975_Ahmedabad_Population
                              1990: 1975_1990_Ahmedabad_Population
