@@ -1,6 +1,6 @@
 # MAPPING INDIA'S URBANISATION (Urban Growth of Indian Cities)
 
-Cities Name: Mumbai, Delhi, Bengaluru, Chennai, Kolkata and Hyderabad
+Cities Name: Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hyderabad and Ahmedabad.
 
 File contains: Built-up, Population and VIIRS (Visible Infrared Imaging Radiometer Suite) with Infrastructure (Highways, Metro, Mono and Local rail line) layers
 
