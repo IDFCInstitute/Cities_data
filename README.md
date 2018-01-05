@@ -23,14 +23,7 @@ periods: 1975, 1990, 2000 and 2014. The built-up and population layer data has
 been extracted from the Global Human Settlement Layer (GHSL), see link for more
 information - http://ghsl.jrc.ec.europa.eu/
 
-2.  VIIRS - Nightfire data make use of six spectral bands to detect and
-characterizes subpixel infrared emitters. Provides locations and times of
-hot pixel detections along with estimates of temperatures and source sizes.
-For cloud-free gas flares a calculation is performed to estimate the flared
-gas volume in methane equivalents. Day/night band - low light imaging data:
-Detections of lighting from cities, towns, villages, combustion sources and
-lit fishing boats. See link for more information -
-https://ngdc.noaa.gov/eog/viirs/index.html
+2. VIIRS - Earth Observations Group (EOG) at NOAA/NGDC is producing a version 1 VIIRS suite of average radiance composite images using nighttime data from the Visible Infrared Imaging Radiometer Suite (VIIRS) Day/Night Band (DNB). See link for more information - https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html 
 
 File format: The zip file contains Built-up, Population, Infrastructure,
 Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff
