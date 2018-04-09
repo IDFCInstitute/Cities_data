@@ -15,7 +15,7 @@ date:                        Metro_Lines: Blue_Line - 31/12/2005 ; Green_Line - 
 
 Infrastructure Source:       (https://mapzen.com/data/metro-extracts/)
 
-File format:                 The folder contains Built-up, Population, Infrastructure and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
+File format:                 The folder contains Built-up, Population, Infrastructure ,Ward Boundary and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
 
 File nomenclature:  
                                           
@@ -29,6 +29,8 @@ File nomenclature:
         Infrastructure       Metro_Lines: Blue_Line, Green_Line, Magenta_Line, Pink_Line, Rapid_Line, Red_Line, Violet_Line, Yellow_Line                          
 
         Municipal Boundary   Delhi_Municipal_Boundary
+	
+	Ward Boundary        Delhi_Ward_Boundary
 
         Population           1975: 1975_Delhi_Population
                              1990: 1975_1990_Delhi_Population
@@ -45,6 +47,8 @@ File nomenclature:
         Infrastructure       Metro_Lines: Blue_Line, Green_Line, Magenta_Line, Pink_Line, Rapid_Line, Red_Line, Violet_Line, Yellow_Line                          
 
         Municipal Boundary   Delhi_Municipal_Boundary
+	
+	Ward Boundary        Delhi_Ward_Boundary
         
         Population           1975: 1975_Delhi_Population
                              1990: 1975_1990_Delhi_Population
@@ -61,6 +65,8 @@ File nomenclature:
         Infrastructure       Metro_Lines: Blue_Line, Green_Line, Magenta_Line, Pink_Line, Rapid_Line, Red_Line, Violet_Line, Yellow_Line                          
 
         Municipal Boundary   Delhi_Municipal_Boundary 
+	
+	Ward Boundary        Delhi_Ward_Boundary
 
         Population           1975: 1975_Delhi_Population
                              1990: 1975_1990_Delhi_Population
