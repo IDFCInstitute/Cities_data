@@ -30,7 +30,7 @@ Municipal boundary and Ward Boundaries in Shapefile, KML and Geojson formats and
 format.
 
 \* Data processed and created by [Urban Expansion Observatory](http://uxo.mes.ac.in/) and [IDFC
-Institute](http://www.idfcinstitute.org/)
+Institute](http://www.idfcinstitute.org/).
 
 If you have any query, please feel free to contact Mr.Kshitij Batra (Email ID:
 kshitij.batra\@idfcinstitute.org)
