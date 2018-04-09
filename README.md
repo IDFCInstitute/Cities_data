@@ -4,7 +4,7 @@ MAPPING INDIA'S URBANISATION (Urban Growth of Indian Cities)
 Cities covered: Mumbai, Delhi, Bengaluru, Chennai, Kolkata, Hyderabad and
 Ahmedabad.
 
-Folder contains data on: Built-up, Population, Nightlights (Visible Infrared 
+Folder contains data on: Built-up, Population,Ward Boundaries,Nightlights (Visible Infrared 
 Imaging Radiometer Suite) and Infrastructure (Highways, Metro, Mono and Local 
 rail line) layers
 
@@ -26,10 +26,10 @@ information - http://ghsl.jrc.ec.europa.eu/
 2. VIIRS - Earth Observations Group (EOG) at NOAA/NGDC is producing a version 1 VIIRS suite of average radiance composite images using nighttime data from the Visible Infrared Imaging Radiometer Suite (VIIRS) Day/Night Band (DNB). See link for more information - https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html 
 
 File format: The zip file contains Built-up, Population, Infrastructure,
-Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff
+Municipal boundary and Ward Boundaries in Shapefile, KML and Geojson formats and VIIRS in Geotiff
 format.
 
-\* Data processed and created by UXO-India (http://uxo.mes.ac.in/) and IDFC
+\* Data processed and created by Urban Expansion Observatory (http://uxo.mes.ac.in/) and IDFC
 Institute (http://www.idfcinstitute.org/)
 
 If you have any query, please feel free to contact Mr.Kshitij Batra (Email ID:
