@@ -17,7 +17,7 @@ date:                        Highway: Ahmedabad_Highway - NA
 Infrastructure Source:       (https://mapzen.com/data/metro-extracts/)
 
 
-File format:                 The zip file contains Built-up, Population, Infrastructure and Municipal boundary in Geojson, KML and Shapefile formats and VIIRS in Geotiff format
+File format:                 The zip file contains Built-up, Population, Infrastructure,Ward Boundary and Municipal boundary in Geojson, KML and Shapefile formats and VIIRS in Geotiff format
 
 File nomenclature:  
                                           
@@ -31,6 +31,8 @@ File nomenclature:
         Infrastructure       Highway: Ahmedabad_Highway       
                        
         Municipal Boundary   Ahmedabad_Municipal_Boundary
+	
+	Ward Boundary        Ahmedabad_Ward_Boundary
 
         Population           1975: 1975_Ahmedabad_Population
                              1990: 1975_1990_Ahmedabad_Population
@@ -49,6 +51,8 @@ File nomenclature:
                           
 
         Municipal Boundary   Ahmedabad_Municipal_Boundary
+	
+	Ward Boundary        Ahmedabad_Ward_Boundary
 
         Population           1975: 1975_Ahmedabad_Population
                              1990: 1975_1990_Ahmedabad_Population
@@ -65,6 +69,8 @@ File nomenclature:
         Infrastructure       Highway: Ahmedabad_Highway
                           
         Municipal Boundary   Ahmedabad_Municipal_Boundary 
+	
+	Ward Boundary        Ahmedabad_Ward_Boundary
 
         Population           1975: 1975_Ahmedabad_Population
                              1990: 1975_1990_Ahmedabad_Population
