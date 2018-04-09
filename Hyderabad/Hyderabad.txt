@@ -18,7 +18,7 @@ date:                        Highway:    Hyderabad_National_Highway_Road - NA
 
 Infrastructure Source:       (https://mapzen.com/data/metro-extracts/)
 
-File format:                 The folder contains Built-up, Population, Infrastructure and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
+File format:                 The folder contains Built-up, Population, Infrastructure,Ward Boundary and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
 
 File nomenclature:  
                       
@@ -34,6 +34,8 @@ File nomenclature:
                              Metor_Line: Hyderabad_Metro_Line
 
         Municipal Boundary   Hyderabad_Municipal_Boundary
+	
+	Ward Boundary        Hyderabad_Ward_Boundary
 
         Population           1975: 1975_Hyderabad_Population
                              1990: 1975_1990_Hyderabad_Population
@@ -51,6 +53,8 @@ File nomenclature:
                              Metor_Line: Hyderabad_Metro_Line
 
         Municipal Boundary   Hyderabad_Municipal_Boundary
+	
+	Ward Boundary        Hyderabad_Ward_Boundary
 
         Population           1975: 1975_Hyderabad_Population
                              1990: 1975_1990_Hyderabad_Population
@@ -68,6 +72,8 @@ File nomenclature:
                              Metor_Line: Hyderabad_Metro_Line
 
         Municipal Boundary   Hyderabad_Municipal_Boundary
+	
+	Ward Boundary        Hyderabad_Ward_Boundary
 
         Population           1975: 1975_Hyderabad_Population
                              1990: 1975_1990_Hyderabad_Population
