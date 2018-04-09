@@ -21,7 +21,7 @@ date:                        Highway:    Chennai_National_Highway and Chennai_to
 Infrastructure Source:       (https://mapzen.com/data/metro-extracts/)
 
 
-File format:                 The folder contains Built-up, Population, Infrastructure and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
+File format:                 The folder contains Built-up, Population, Infrastructure,Ward Boundary and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
 
 File nomenclature:  
                                           
@@ -37,6 +37,8 @@ File nomenclature:
                              Metro_Line: Chennai_Metro_Rail
                           
         Municipal Boundary   Chennai_Municipal_Boundary
+	
+	Ward Boundary        Chennai_Ward_Boundary
                              
         Population           1975: 1975_Chennai_Sriperumbudur_Population
                              1990: 1975_1990_Chennai_Sriperumbudur_Population
@@ -55,6 +57,8 @@ File nomenclature:
                              Metro_Line: Chennai_Metro_Rail
                          
         Municipal Boundary   Chennai_Municipal_Boundary
+	
+	Ward Boundary        Chennai_Ward_Boundary
 
         Population           1975: 1975_Chennai_Sriperumbudur_Population
                              1990: 1975_1990_Chennai_Sriperumbudur_Population
@@ -73,6 +77,8 @@ File nomenclature:
                              Metro_Line: Chennai_Metro_Rail
                           
         Municipal Boundary   Chennai_Municipal_Boundary 
+	
+	Ward Boundary        Chennai_Ward_Boundary
  
         Population           1975: 1975_Chennai_Sriperumbudur_Population
                              1990: 1975_1990_Chennai_Sriperumbudur_Population
