@@ -20,7 +20,7 @@ date:                        Local Lines: Central - 16/04/1853; Harbour - 12/12/
 
 Infrastructure Source:       (https://mapzen.com/data/metro-extracts/)
  
-File format:                 The folder contains Built-up, Population, Infrastructure and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
+File format:                 The folder contains Built-up, Population, Infrastructure,Ward Boundary and Municipal boundary in Shapefile, KML and Geojson formats and VIIRS in Geotiff format
 
 File nomenclature:  
                       
@@ -38,6 +38,8 @@ File nomenclature:
 
         Municipal Boundary   Mumbai Metropolitan Region:        MMR
                              Navi Mumbai Municipal Corporation: NMMC
+	Ward Boundary	     Mumbai_ward_boundary     
+			     
 
         Population           1975: 1975_Mumbai_Population
                              1990: 1975_1990_Mumbai_Population
@@ -57,6 +59,8 @@ File nomenclature:
 
         Municipal Boundary   Mumbai Metropolitan Region:        MMR
                              Navi Mumbai Municipal Corporation: NMMC
+			  
+	Ward Boundary	     Mumbai_ward_boundary     
 
         Population           1975: 1975_Mumbai_Population
                              1990: 1975_1990_Mumbai_Population
@@ -76,6 +80,8 @@ File nomenclature:
 
         Municipal Boundary   Mumbai Metropolitan Region:        MMR
                              Navi Mumbai Municipal Corporation: NMMC 
+			     
+	Ward Boundary	     Mumbai_ward_boundary     
 
         Population           1975: 1975_Mumbai_Population
                              1990: 1975_1990_Mumbai_Population
@@ -90,7 +96,7 @@ File nomenclature:
                              2015: 2015_Mumbai_VIIRS
 
 
-*Data processed and created by UXO-India (http://uxo.mes.ac.in/) and IDFC Institute (http://www.idfcinstitute.org/)
+*Data processed and created by [UXO-India](http://uxo.mes.ac.in/) and [IDFC Institute](http://www.idfcinstitute.org/)
 
 If you have any query, please feel free to contact Mr.Kshitij Batra (Email ID: kshitij.batra@idfcinstitute.org) 
 
